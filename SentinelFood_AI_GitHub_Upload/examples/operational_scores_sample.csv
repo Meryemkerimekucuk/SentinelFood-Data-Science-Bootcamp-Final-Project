@@ -1,5 +1,0 @@
-product_canonical,hazard_canonical,model_score_raw,anomaly_strength_raw,graph_component
-leafy_greens,salmonella,0.81,0.70,0.62
-snack_products,milk_allergen,0.53,0.35,0.40
-seafood,listeria,0.72,0.55,0.78
-
