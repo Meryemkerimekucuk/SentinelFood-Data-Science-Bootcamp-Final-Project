@@ -1,0 +1,4 @@
+global_record_key,alert_id,event_id,event_date,recall_initiation_date,source,country,origin_country,state,product_raw,product_category,hazard_raw,hazard,hazard_category,severity_or_class,reason_text,distribution_pattern,status,recalling_firm
+FDA::FDA_SAMPLE_001,FDA_SAMPLE_001,EVT_SAMPLE_001,2026-01-12,2026-01-10,FDA,United States,,CA,Sample leafy greens,Produce,Potential Salmonella contamination,Salmonella,Biological,Class I,Synthetic example for interface testing,One state,Ongoing,Example Foods A
+FDA::FDA_SAMPLE_002,FDA_SAMPLE_002,EVT_SAMPLE_002,2026-02-09,2026-02-07,FDA,United States,,NY,Sample snack product,Snacks,Undeclared milk,Milk allergen,Allergen,Class II,Synthetic example for interface testing,Two states,Completed,Example Foods B
+
