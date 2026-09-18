@@ -1,0 +1,23 @@
+{
+  "primary_model": "LOGISTIC_REGRESSION",
+  "primary_model_params": {
+    "class_weight": "balanced",
+    "max_iter": 3000,
+    "random_state": 42,
+    "solver": "liblinear"
+  },
+  "primary_threshold": 0.59,
+  "secondary_watchlist_threshold": 0.45,
+  "holdout_start": "2025-07-28",
+  "holdout_end": "2026-07-20",
+  "purge_weeks_before_holdout": 4,
+  "categorical_features": [
+    "product_canonical",
+    "hazard_canonical"
+  ],
+  "numeric_features": [
+    "count_1w",
+    "mean_4w"
+  ]
+}
+
